@@ -1,7 +1,8 @@
 # WE-Module3
-## Following are the details of each Assignment
+## Following are the details of each assignment:
 ### Assignment 01
 Pick any non-trivial problem statement from your computational thinking course and ask genAI to solve it. Iterate upon its solution to apply our principles of clean code.
+Problem Statement chosen: Odometer
 
 ### Assignment 02
 Use a genAI tool to learn what the game of Yahtzee is
